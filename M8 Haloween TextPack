@@ -1,7 +1,7 @@
 {
   "replacement_rules": [
     {
-      "name": "M8 arena text",
+      "name": "M8 Haloween arena",
       "replace_ids": [
         7658055825
       ],
@@ -21,7 +21,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/Gemini_Generated_Image_3tdvga3tdvga3tdv.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/lv_0_20261014174159.jpg"
     },
     {
       "name": "SkyDn",
@@ -63,7 +63,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/Gemini_Generated_Image_3tdvga3tdvga3tdv.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/lv_0_20261014174159.jpg"
     },
     {
       "name": "SkyRt",
@@ -93,4 +93,67 @@
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/c07dc842a4dc111e9ad3ecf1c50d8257.jpg"
     },
+    { "name": "Level Icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/1000003685-removebg-preview.png"
+    },
+    {"name": "Shop Icon",
+      "replace_ids": [
+        17619445340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/1000003686-removebg-preview.png"
+    },
+    {    "name": "Loading Ghost",
+      "replace_ids": [
+        133917828562858,
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/1000003688-removebg-preview.png"
+    },
     {
+      "name": "Item Background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/1000004151-removebg-preview.png"
+ "name": "M8 Font Terror",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/KiwiSoda.ttf"
+    },
+    { "name": "Tuturu Killsound",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/M8-Haloween-Config/main/Tuturu%20-%20Sound%20Effect%20HD.mp3"
